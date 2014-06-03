@@ -1,4 +1,7 @@
 Portfolio
 =========
 
-My portfolio
+About
+-----
+Name: Dmitriy
+Age: 21
