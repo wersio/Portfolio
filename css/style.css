@@ -6,3 +6,5 @@ body, html {
 	font-family: Arial, sans-serif;
 	font-size: 12pt;
 }
+
+a img { border: none; }
